@@ -1,4 +1,4 @@
-# 3D Interactive Portfolio
+# My Portfolio
 
 A modern, interactive 3D portfolio website built with React.js and Three.js, showcasing projects and skills with immersive animations and visual elements.
 
@@ -28,8 +28,8 @@ A modern, interactive 3D portfolio website built with React.js and Three.js, sho
 
 1. Clone the repository
 ```bash
-git clone https://github.com/[username]/3D-Portfolio.git
-cd 3D-Portfolio
+git clone https://github.com/ManishBej/My-Portfolio.git
+cd My-Portfolio
 ```
 
 2. Install dependencies
